@@ -1,6 +1,6 @@
 # **This is bash script to run and deploy PERN stack APP**
 
-## **Original File can be found in [PERN STACK EXAMPLE](https://github.com/omarmohsen/pern-stack-example)**
+## **Original project can be found in [PERN STACK EXAMPLE](https://github.com/omarmohsen/pern-stack-example)**
 
 ### Results:
 ![](https://github.com/abdulrahman102/bash_script_project/blob/master/1.png)  
